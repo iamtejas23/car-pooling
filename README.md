@@ -1,4 +1,4 @@
-```markdown
+
 # Carpooling App 🚗
 
 Carpooling App 🚗👥 is a React Native mobile application that facilitates convenient ride-sharing among users. Find and join rides, explore stylish UI, and receive push notifications for an enhanced user experience.
